@@ -1,0 +1,268 @@
+country,area,locationFactor
+United States,Connecticut,70
+United States,Maine,63.333
+United States,"Everywhere else, Massachusetts",73.561
+United States,"Boston, Massachusetts",79.117
+United States,New Hampshire,63.333
+United States,Rhode Island,63.333
+United States,Vermont,63.333
+United States,New Jersey,63.333
+United States,"Everywhere else, New York",63.333
+United States,"NYC, New York",85.556
+United States,Pennsylvania,68.889
+United States,"Everywhere else, Indiana",63.333
+United States,"Indianapolis, Indiana",76
+United States,"Everywhere else, Michigan",63.333
+United States,"Detroit, Michigan",68.889
+United States,"Everywhere else, Ohio",63.333
+United States,"Columbus, Ohio",68.889
+United States,Wisconsin,63.333
+United States,"Chicago, Illinois",74.444
+United States,"Everywhere else, Illinois",63.333
+United States,Iowa,68.889
+United States,Nebraska,63.333
+United States,Kansas,63.333
+United States,North Dakota,63.333
+United States,"Everywhere else, Minnesota",63.333
+United States,"Minneapolis, Minnesota",68.889
+United States,South Dakota,63.333
+United States,Missouri,63.333
+United States,Delaware,63.333
+United States,Washington DC,78.889
+United States,"Everywhere else, Florida",63.333
+United States,"Fort Myers, Florida",68.889
+United States,"Miami/Fort Lauderdale, Florida",70.811
+United States,"Jacksonville, Florida",68.889
+United States,"Orlando/Tampa, Florida",68.889
+United States,"Everywhere else, Georgia",63.333
+United States,"Atlanta, Georgia",68.889
+United States,Maryland,63.333
+United States,"Everywhere else, North Carolina",63.333
+United States,"Charlotte, North Carolina",68.889
+United States,"Raleigh, North Carolina",74.444
+United States,South Carolina,63.333
+United States,Virginia,63.333
+United States,West Virginia,63.333
+United States,Alabama,63.333
+United States,Kentucky,63.333
+United States,Mississippi,63.333
+United States,"Everywhere else, Tennessee",63.333
+United States,"Nashville, Tennessee",68.889
+United States,"Everywhere else, Arkansas",63.333
+United States,"Fayetteville, Arkansas",68.889
+United States,Louisiana,63.333
+United States,Oklahoma,63.333
+United States,"Everywhere else, Texas",63.333
+United States,"Dallas, Texas",80
+United States,"Houston, Texas",68.889
+United States,"Austin, Texas",80
+United States,"San Antonio, Texas",74.444
+United States,Arizona,63.333
+United States,"Everywhere else, Colorado",68.889
+United States,"Denver, Colorado",74.444
+United States,Idaho,63.333
+United States,New Mexico,63.333
+United States,Montana,63.333
+United States,"Salt Lake City, Utah",68.889
+United States,"Everywhere else, Utah",63.333
+United States,"Everywhere else, Nevada",63.333
+United States,"Las Vegas, Nevada",68.889
+United States,Wyoming,63.333
+United States,Alaska,63.333
+United States,"Everywhere else, California",74.444
+United States,"Sacramento, California",74.444
+United States,"San Francisco, California",100
+United States,"Santa Barbara, California",74.733
+United States,"Los Angeles, California",80.011
+United States,"Santa Cruz, California",77.056
+United States,"San Diego, California",75
+United States,Hawaii,67.389
+United States,"Everywhere else, Oregon",63.333
+United States,"Portland, Oregon",74.444
+United States,"Everywhere else, Washington",63.333
+United States,"Seattle, Washington",89.983
+United States,"Bellingham, Washington",74.444
+Canada,Alberta,50.278
+Canada,"Vancouver, British Columbia",57.367
+Canada,"Everywhere else, British Columbia",50.972
+Canada,Manitoba,45
+Canada,New Brunswick,41.111
+Canada,Newfoundland and Labrador,42.139
+Canada,Northwest Territories,41.111
+Canada,Nova Scotia,45.667
+Canada,Nunavut,41.111
+Canada,"Toronto, Ontario",54.444
+Canada,"Everywhere else, Ontario",47.378
+Canada,Prince Edward Island,41.111
+Canada,Quebec,44.278
+Canada,Saskatchewan,45.8
+Canada,Yukon,41.111
+Bermuda,All,95.444
+Bahamas,All,50.778
+Dominican Republic,All,41.111
+Jamaica,All,41.111
+Puerto Rico,All,45.622
+Cuba,All,41.111
+Trinidad and Tobago,All,41.111
+El Salvador,All,41.111
+Guatemala,All,41.111
+Mexico,Everywhere else,26.722
+Mexico,Mexico City,35
+Costa Rica,All,41.778
+Nicaragua,All,41.778
+Panama,All,51.278
+Suriname,All,41.111
+Venezuela,All,41.111
+Paraguay,All,41.111
+Colombia,All,41.111
+Ecuador,All,41.111
+Argentina,All,41.111
+Chile,All,34.944
+Peru,All,41.111
+Uruguay,All,41.161
+Brazil,Sao Paulo,35.983
+Brazil,Rio de Janerio,36.739
+Brazil,Everywhere else,34.944
+Algeria,All,41.111
+Egypt,All,41.111
+Libya,All,41.333
+Morocco,All,41.111
+Tunisia,All,41.111
+Uganda,All,41.111
+Rwanda,All,41.111
+Zimbabwe,All,41.111
+Kenya,All,41.111
+Ethiopia,All,45.906
+Tanzania,All,44.072
+Angola,All,120.056
+Namibia,All,41.683
+Ghana,All,55.944
+South Africa,Everywhere else,41.111
+South Africa,Cape Town,45.539
+Nigeria,All,47.394
+Kazakhstan,All,41.111
+Uzbekistan,All,41.111
+China,All,33.664
+Hong Kong,All,75.928
+South Korea,All,48.561
+Japan,All,56.278
+Mongolia,All,42.644
+Taiwan,All,42.644
+Brunei Darussalam,All,43.25
+Cambodia,All,42.056
+Singapore,All,75.111
+Indonesia,Everywhere else,41.111
+Indonesia,Jakarta,44.278
+Malaysia,All,41.111
+Philippines,Makati/Manila,48.056
+Philippines,Everywhere else,41.111
+Thailand,Bangkok,44.039
+Thailand,Everywhere else,41.111
+Vietnam,All,41.111
+Nepal,All,41.111
+Bangladesh,All,41.111
+Iran,All,42.444
+Maldives,All,48.278
+Pakistan,All,41.111
+Sri Lanka,All,41.111
+India,Mumbai,31.942
+India,Everywhere else,30.833
+Armenia,All,41.111
+Georgia,All,41.111
+Azerbaijan,All,41.111
+Cyprus,All,43.95
+Jordan,All,41.111
+Saudi Arabia,All,41.111
+Turkey,All,41.111
+Iraq,All,42.167
+Lebanon,All,52.556
+Israel,All,63.333
+Oman,All,51.778
+Bahrain,All,51.778
+Qatar,All,60.222
+United Arab Emirates,All,62.089
+Bulgaria,All,41.111
+Moldova,All,41.111
+Romania,All,41.111
+Russia,Everywhere else,24.667
+Russia,Moscow,28.804
+Belarus,All,41.111
+Ukraine,All,26.722
+Slovakia,All,42.128
+Hungary,All,41.111
+Poland,All,33.315
+Czech Republic,Everywhere else,37
+Czech Republic,Prague,39.035
+Denmark,Everywhere else,49
+Denmark,Copenhagen,57.561
+Finland,Everywhere else,44.639
+Finland,Helsinki,52.111
+Iceland,All,61.056
+Ireland,Everywhere else,51.05
+Ireland,Dublin,63.039
+Norway,All,57.106
+Sweden,Stockholm,53.878
+Sweden,Everywhere else,46.344
+Latvia,All,41.111
+Lithuania,All,41.111
+Estonia,All,41.111
+United Kingdom,Northern Ireland,51.05
+United Kingdom,Wales,39.161
+United Kingdom,"London, England",62.806
+United Kingdom,"Bristol, England",43.869
+United Kingdom,"Birmingham, England",45
+United Kingdom,"Everywhere else, England",40.347
+United Kingdom,Scotland,41.301
+Albania,All,41.111
+Bosnia and Herzegovina,All,41.111
+Croatia,All,41.111
+Greece,All,41.111
+Italy,Everywhere else,42.428
+Italy,Rome,52.339
+Italy,Milan,52.256
+Italy,Florence,45.933
+Malta,All,50.117
+Montenegro,All,41.111
+Portugal,Everywhere else,40.1
+Portugal,Lisbon,44.185
+Serbia,All,41.111
+Slovenia,All,41.111
+Spain,Everywhere else,41.933
+Spain,Palma De Mallorca,45.122
+Spain,Madrid,47.65
+Spain,Barcelona,47.994
+Spain,Bilbao,45.989
+Macedonia,All,41.111
+Kosovo,All,41.111
+Austria,All,48.389
+Belgium,All,48.994
+France,Paris,56.511
+France,Everywhere else,46.511
+Germany,Everywhere else,49.444
+Germany,Munich/Nuremberg,54.672
+Germany,Ruhrgebiet,55.767
+Germany,Frankfurt/Stuttgart,55.767
+Germany,Cologne/Dusseldorf,55.767
+Germany,Hamburg/Bremen,49.611
+Germany,Berlin/Leipzig,55
+Luxembourg,All,63.406
+Netherlands,Everywhere else,40.639
+Netherlands,Amsterdam,51.218
+Switzerland,Everywhere else,85.556
+Switzerland,Geneva,91.111
+Switzerland,Zug/Zurich,91.111
+Australia,Western Australia,54.222
+Australia,"Everywhere else, Queensland",46.833
+Australia,"Brisbane, Queensland",56.5
+Australia,Northern Territory,55.228
+Australia,South Australia,49.722
+Australia,"Everywhere else, New South Wales",52.783
+Australia,"Sydney, New South Wales",66.861
+Australia,"Everywhere else, Victoria",54.556
+Australia,"Melbourne, Victoria",54.556
+Australia,Tasmania,47.056
+Australia,Australian Capital Territory,55.278
+New Zealand,Everywhere else,52.006
+New Zealand,Auckland,55
+New Caledonia,All,52.783
+Andorra,All,45
